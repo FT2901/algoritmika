@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family:sans-serif;
+}
+footer p {
+    background-color:Lime;
+    color: black;
+}
+nav a {
+    background-color: darkblue;
+    color: white;
+    text-decoration: unset ;
+    margin: 20px;
+    padding: 10px;
+}
+nav {
+    padding: 10px ;
+    margin: 10px;
+    text-align: center;
+}
+.pr {
+    background-color: orange;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    
+}
+p{
+    size: 20px;
+}
+h2{
+    color:  blue;
+}
+.podarki {
+    border-radius: 10px;
+    border: 3px solid lightblue;
+
+}
+.kp {
+border: 3px solid rgb(21, 21, 214);
+text-decoration: unset;
+color: black;
+padding: 5px;
+}
+
